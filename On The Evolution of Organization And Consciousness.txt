@@ -1,0 +1,390 @@
+From Past To Present
+For better or worse, something peculiar has happened over the past few thousands of years. Bands of human tribes scattered across pre-industrial, pre-agricultural lands have gone on to organize themselves in large scale efforts, forming everything from cities and nation states, to global market economies, expedited by the internet and sprawling multinational corporations.
+
+The postmodernist may dismiss the emergence of these structures as merely the outgrowth of random historical circumstance, unlikely to reemerge if we rolled the dice on history again — atleast to any degree of resemblance. They may take a neutral, or even yet, negative stance on the direction of history and the current state of affairs thus far.
+
+Using the lens of organizational theory, psychology and evolution however, it not only becomes apparent how and why such structures were inevitable, but how such structures will continue to develop. Along the way, we’ll explore the potential evolutionary origins of consciousness, and why it matters in analyzing the way social organizations evolve. This will help us explain organizational phenomena like the rise of the state, the firm, the internet and more recently, blockchain networks.
+
+Consider the following an investigation of sorts. We’ll try to incorporate multidisciplinary ideas ranging from the natural sciences, to economics, psychology and philosophy. We’ll draw potential hypothesizes and conclusions, while steering away from dogma or rigidity. The investigation is brushed in broad strokes, by design, to help you draw your own conclusions. But like a picture, you should to see the whole frame, so follow along until the very end.
+
+Redefining Organizations
+Admittedly, organizational theory may initially ring of a subject rot of descriptions of monotonous practices and procedures. However, we’ll reinvigorate it by expanding the scope of the subject beyond social organizations to gain insight on ourselves, and the universe as a whole.
+
+Let’s take the following definition of an organization:
+
+“A structure or arrangement of related or connected items.”
+We’re addressing everything from atoms and galaxies to cities and economies with this definition. The first key insight here is that organizations of higher “order” are comprised of organizations of lower “order”, while simultaneously being sovereign organizations of their own.
+
+For example, a solar system is “an organization of planets” while simultaneously being the totality of; a) the geological organizations that form the planets and b) the molecular organizations that form those geological organizations, so on and so forth.
+
+Evolution
+Using this insight, we observe a tendency of organizations of a lower order to arrange themselves into novel, higher order organizations. We can refer to this as the process of evolution.
+
+Usually designated for the realm of biology, rarely do we view the process by which a universe of quark soup can transform over 13 billion years into both complex galactic systems and organic specimens as the “force” of evolution (as opposed to say, the fundamental physical forces). It’s not a leap to say that whatever is behind this process, seems to give direction or “purpose” to every organization in the universe.
+
+In the context of biology, evolution serves the purpose of the survival and reproduction of the species. By observing the fact that a biological specimen is composed of lower order atomic and molecular organizations, the question that begins to beg itself is whether there is a common, or ultimate purpose evolution plays across all levels of organization?
+
+Putting Your Genes On
+A good place to begin this investigation is with yourself. It may have already dawned on you, but yes, you too may be an organization. What you consider yourself to be is your human body, an organization composed of 11 organ(izational) systems. Those organs of course can be broken down further into tissue and cellular organizations.
+
+We don’t usually “express” it but we are as intimately our DNA as we are our heart, cells and brain. What you believe your physical self to be is the totality of every level of organization that comprises “you”.
+
+Naturally, we’d assume that Darwinian evolution dictates we’ll act in a manner that propagates the survival of our physical body, right? Although once a topic of debate, ultimately no, this is not really the case.
+
+How do you explain a mother bear willing to sacrifice herself in order to protect her baby cubs? Or a warrior who goes off to fight a neighbouring tribe that threatens his close tribe of relatives. It appears we do consistently engage in activities that endanger our individual existence for the sake of a self-less cause. If evolution’s role isn’t to propagate the survival of your human body, what is it’s agenda?
+
+We turn to Richard Dawkins seminal work in 1976 on The Selfish Gene to help answer this. Dawkins takes a gene-centric view of evolution to describe altruistic behaviours similar to the ones described above. In essence, biological evolution serves to propagate your genetic information through the replication of your DNA.
+
+When a mother looks at her child, she see’s both a separate, unique organism while simultaneously seeing the manifestation of the same genetic structure inside her. Another way to put it; despite the differences between mother and child on the scale of the individual, they are practically identical organizations at the scale of DNA.
+
+Through this lens, the warrior being a separate manifestation of the genes common amongst his tribe, is really the same gene defending itself when in warfare, explaining the irony of the title; The Selfish Gene.
+
+Information & Entropy
+Why is this significant?
+
+As of now, we have avoided defining what exactly makes an organization of a “higher” order. What we have postulated is that evolution pushes organizations towards some higher order, giving more precedent to those organizations over others.
+
+The excusable assumption here would be that organizations of larger physical scales are of a higher order. There is no reason to assume however, that a planetary system for example, is more of a refined product of the evolutionary process than say a mammal.
+
+Contrast this to mistakenly assuming your body gets precedent over your DNA. Through the selfish gene hypothesis we learned that evolution actually gives priority to your genes, despite it’s microscopic scale. In a way you can say that your body serves the purpose of your DNA, giving it legs and arms to interact with the world and help propagate and improve itself through activities of reproduction.
+
+What about DNA makes it subject to this transcendent favour from evolution? Recall, DNA carries your genetic information. In it lies blueprints on how to organize all structures in your body, which in turn, informs the way you interact with the universe around you.
+
+Proposing that perhaps the more information an organization “carries”, the higher order it tends towards might be on the right track. This is in line with some of the thinking that Claude Shannon was working through in 1943 with his information theory.
+
+In chemistry, lower order organizations such as atoms, coordinate to form higher order molecules. The reason for this, really distilled down, is the efficiencies gained by the sharing of chemical bonds. Evolving into the new structure was advantageous for the lower order atoms to share or exchange energy (or matter) more effectively.
+
+According to information theory, a parallel can be drawn between information and physical systems. In the way that the disorder of a physical system is associated with higher entropy, the “disorder” or uncertainty of an information system is associated with more noise. Like physical organizations then, information systems look for efficiencies, or put another way, make clearer “sense” of information.
+
+Of course, this a gross oversimplification but the premise here is that systems of higher order are greater “carriers” or “communicators” of information. Developments in physics, makes this comparison between physical and information systems less obscure and more grounded in the way reality operates than may initially appear. The reasoning behind this, for simplicity sake, will be left out of the scope of this paper.
+
+We can, however, deduce an insight from what we’ve learned about information systems to hypothesize the following:
+
+Across all levels of organization, it appears that evolution tends to favour the effective transmission of information. Perhaps we can call this an information-centric view of evolution.
+Meme-ified
+Dawkins alluded to this information-centric property of evolution by coining the term meme to describe information in the form of ideas, beliefs and behaviors that evolve through a culture. See, the issue with a gene-centric perspective is that not every behavior we engage in is encoded in our DNA.In other words, we learn behaviours from our environment.
+
+Dawkins compared his gene theory to the process by which ideas spread from one organism to another. Analogous to a virus that takes over its host to reproduce and spread itself, an idea or meme takes over the individual, which then “infects” other individuals through the process of imitation.
+
+If the meme provides an advantage to survival, then that meme will go on to survive and replicate. A father teaching his son how to start a fire for example, would have been an early meme that was advantageous to our species survival (or more importantly, to our genes survival).
+
+So in a similar manner to the way the molecular organizations of your DNA are able to effectively transmit information through replication, a system within your organism is responsible for the propagation of information in the form of packets of ideas, or as we now know them as; memes.
+
+What system are we referring to?
+
+
+The Individual, Consciousness
+Your nervous system is particularly fond of evolving ever higher ordered organizations. The study of cognitive neuroscience is devoted to studying the way in which this system organizes itself, and as a result it’s information-processing capability.
+
+We take it for granted, but it is pretty miraculous that individual neurons can organize themselves in such a way to make cognition and perception possible. From inanimate material, appears to arise an ethereal, non-local phenomenon filled with thoughts, sensations and images that we refer to as our conscious stream.
+
+In fact, this phenomenon is so perplexing, many theories throughout mankind have directly, or indirectly, tried to explain this mystery — whether through philosophy, cognitive science, or mythology. An interesting perspective however, might arise through the examination of how consciousness potentially came to evolve.
+
+A recent theory from the field of evolutionary biology, purports to describe this process through the Attention Schema Theory (Graziano, 2015). Put simply, at any given moment, there is too much information from the environment for the nervous system to use effectively. Therefore, it evolved sophisticated mechanisms to process some neural signals and ignore others. Neurons compete for attention and the ones that cut through the noise are selected to impact the animals behaviour — a process referred to as selective signal enhancement.
+
+So, for the purpose of increasing the efficiency of information processing, new neural organizations evolved, over time, controllers of attention — from the tectum to the cortex. From this, arises an attention schema, or as it manifests itself as — a subjective experience. In turn, the organism gains an awareness of mental objects and a sense of self, or “I Am-ness”, if you will.
+
+Whatever developments come out of AST, or similar theories, it will probably not be substantial enough to make a definite conclusion on the ontological status of consciousness itself (nor a solid case towards or against realism). However, the lens of evolutionary theory does provide hints at the nature of consciousness.
+
+In line with the information-centric view of evolution proposed earlier, the nervous system evolved ever higher ordered organizations for the purpose of better attention control, or synonymously; effective information-processing. We can say then, it appears that our subjective experience, unlike the objective, “material” world, is made of information — an information system of sorts.
+
+A piece of information, penetrates our nervous system and makes it’s way into our attention. When a thought or sensation arises, it arises as an object within our attention or conscious stream. In other words, our consciousness processes that bit of information, which depending on our psyche (discussed below), determines how we act on that information.
+
+The insight here is that consciousness is not an object or any bit of information. Consciousness is information-processing itself. It is like a light, you can say, that illuminates experience and all of its contents, which arrive through the nervous system as information.
+
+The problem with studying consciousness, is that we rarely, if ever, study it directly. Rather, we study the objects it processes (i.e. thoughts, perceptions, etc.) and make inferences — like detectives at a crime scene, left only with fingerprints.
+
+Whatever pure, direct consciousness is (or pure information-processing, pure awareness, etc.), cannot be observed directly, as anything that is observed is yet another object of consciousness. It’s really a paradox.
+
+(Though there may be ways around it. See the bonus bit at the end later).
+
+The Psyche, Chaos & Creativity
+What might be helpful for observing consciousness is the study of how consciousness manifests itself in you, a biological, social organism.
+
+Over countless generations, we have tried to describe the nature of our subjective experience. From “our” perspective, there seems to be a vast ocean of thoughts, emotions, dreams, desires and fears. There also seems to be, a part of this experience, a sense of ourselves in relation to these objects. Our subjective experience is the totality of this part of us interacting with these mental “objects”, which then has some effect on the objective world through behaviour.
+
+
+A New Yorker cover, showing a conscious stream. Photo Credit
+Science of the Subjective
+In modern history, the famous Austrian psychologist Sigmund Freud developed the field of psychoanalysis — essentially a science of the subjective. Of Freud’s work, the most significant may be his description of the psyche and it’s various parts.
+
+According to Freud, we are divided into: i) our “ego”, which represents the conscious part of our psyche, ii) our “id”, which represents our unconscious drives, and iii) our “super-conscious” or collective mind, which basically represents the desires of our environment and culture, or put another way; a moral conscience.
+
+Despite there being many flaws in Freud’s thinking, he pioneered a field that was advanced by the brilliant minds that followed. The concept of the divided “self” described above gives us a great framework to begin to see how consciousness operates within our psyche.
+
+Creativity
+Information enters our experiences either from our internal processes and drives (feelings of hunger, sexual urges, emotional reactions, etc.) or through the environment as sensations. Our ego, is the “structure” or object within consciousness that interacts with the incoming information and acts on it, giving us a sense of control (or “I”-ness).
+
+Recall, we evolved a sense of attention to deal with a nervous system that gets hit with too much information. The plethora of new or strange information manifests itself in our subjective experience as “chaos”. Our ego either makes sense of the new information, which would lead to an appropriate action, or gets overwhelmed, leading to the subjective feeling of suffering.
+
+Our ego is a pattern recognition and symbol creating machine. This means it interprets novel or strange information by representing it as something familiar, usually related to our unconscious drives.
+
+For example, imagine spotting a snake on the floor. Without our ability to create symbols or representations, we wouldn’t react to the object. However, we do in fact “symbolize”, and for us, snakes represent danger (i.e. fear). Either we interpret the situation appropriately and fight (or run), or we get overwhelmed by the chaos, stifling our ability to cope with the danger (which would lead to suffering).
+
+In other words, from chaos, our ego attempts using it’s symbolic and imaginative abilities to reduce suffering. The ability to do this can be referred to as creativity. If we are able to encounter and confront the unknown, make sense of the new information and cope with it, we reconstruct reality or “gain awareness” — better able to handle a similar situation with ease.
+
+Note the ego is essentially a construct within your awareness, and while it’s not consciousness itself, it appears to be the bridge between the world of information (which arises as experience) and the source of awareness (i.e. direct consciousness or information-processing itself).
+
+Another way to define creativity then, is really consciousness (i.e. pure information-processing) made manifest through the mechanics, or “form” of the ego. True creativity then, or atleast the way we’re defining it, aims to reduce suffering.
+The Ego & Suffering
+This insight is important. It may lead us to hypothesize that the role of the ego then, in the pursuit to minimize suffering, is to establish a clearer or less perturbed connection to consciousness (i.e. information-processing), since it is from this place that “sense” is brought into your experience (and hence appropriate action — or creativity). It also means, consciousness needs the ego or the individual psyche to help establish this connection between awareness and information.
+
+Being able to make better “sense” of information should not be mistaken as necessarily using the intellect more. The intellect, although useful, is a tool of the ego and thus can get caught in a symbolic mess — mucking the conditions for true understanding (which comes from unperturbed consciousness). Another way to view this distinction, is the general difference between someone possessing intelligence, versus wisdom.
+
+It may then simply involve the acceptance of, or the surrender to the situation entirely since the ego then does not misrepresent or avoid seeing the situation as it is (i.e. distort incoming information or the truth) — creating undue suffering. This tendency to distort information with our egos, is actually at the root of most, if not all pathologies, stunting our ability to act creatively.
+
+Don’t worry if this may be confusing, especially if you’re just getting acquainted with these concepts. This does not do justice on the wide breadth of information on the subject, but is rather a distillation for the purpose of this investigation.
+
+The field of psychology is boundless with descriptions of the mechanics of these systems, and as a result, strategies for coping with suffering and striving for actualization. But let’s take a golden nugget from the short overview we got above, for simplicity sake:
+
+Our individuality seems to demand we evolve towards a state of “higher” consciousness, or rather, develop a more direct connection to consciousness. This might make us hypothesize — that evolution seems to tend towards being consciousness-centric across orders of organization.
+More in line with the earlier stated hypothesis however, “information-processing”-centric may be used synonymously here.
+Language
+The symbolic mind has given rise to a particularly interesting development in the evolution of organizations. Using symbols, either visual or auditory, we have, essentially, developed a tool for spreading our consciousness.
+
+Language gives us the ability to talk about our subjective experience. Using it, we take the contents of our conscious awareness, package them using symbols and transmit them to a receiving mind. If that mind is using the same symbolic schema as yours, it can then decipher your message and gain insight into your subjective experience.
+
+This particular development was imperative to the formation of large social organizations as we now see them.
+
+Tribes & Networks
+Imagine now, you are aware of yourself. You have a subjective experience, which means you are capable of suffering. What if another human, out of ignorance of your subjective awareness, inflicts suffering onto you. One strategy to deal with it is by communicating your “I-am”-ness through the use of language. Further yet, you can communicate the contents of your being-ness, such as the fact that you are now suffering.
+
+Essentially, if we are able to communicate the same language (including facial expressions, body language, etc.), we can sync our consciousnesses to a degree. This is the beginning of the basis for cooperation. The contents of your nervous system can now transcend your individuality and mesh with others. A friendship between two people for example, is a primal example of a basic social (neural) network.
+
+This idea of a network can be extended as far as the boundaries of communication persist. The most significant or atleast persistent form of a network (or social organization) throughout human history, has arguably been the tribe. We spent the majority of our history as homo sapiens living in tribes of extended ancestral lineage.
+
+Over time these tribes developed their own languages, customs and ideas. An individual in the tribe was, in a way, both a sovereign individual while simultaneously a part of a large organizational structure. The individual psyche then, would identify with this collective consciousness, expanding it’s territory of self.
+
+If you came across another individual that didn’t speak the same language or had the same customs, it was hard to attribute the same consciousness to that individual. This is what was, and still is at the heart of tribalism, an evolved trait that prohibits us from cooperating with the entire world at large.
+
+The Games We Play
+You may wonder why an individual would give up their sovereignty in the first place. It’s a good question for which the answer is not immediately obvious. To help answer it, we can borrow some ideas from game theory — a branch of economics.
+
+A part of having a game, is having an objective or goal to work towards, along with a set of rules and participants in the game. Generally, there are two kinds of games then; i) competitive, where one participants gain is another’s loss and ii) cooperative games, where the outcome of one participant isn’t necessarily dependant on another’s loss.
+
+Game theorists would describe the first set of games as zero-sum games. Team sports, for example, is a zero-sum game because one team’s win is another teams loss (and their records would appear as 1–0, 0–1 respectively). The second set of games are called non-zero sum games. An example of this would be a music collaboration, where both artist gain from cooperating on a new song.
+
+The latter type may be key to our insight on sovereignty. The reason the artist cooperates, despite having to give up some of their creative control (individuality) is to produce an outcome that is more positive sum than not collaborating. Therefore, an individual will agree to give up some of their individuality if they have more to gain.
+
+A Note About Competition
+In the real world, some games appear zero-sum initially, but may be more non-zero at a grander scale. For example, while losing a hockey match is rather binary, the players may also have the objective of becoming better at the sport. In this sense, even losing a match may be positive sum if accounting for the full range of objectives. This is important to note for economic competition and war-waging (which we’ll get to).
+
+Hierarchies, Rulers & Chiefs
+Within a tribe network, lets say, a common goal makes its way through the collective consciousness. This goal may be the survival of the individuals of the tribe. In order to accomplish this goal, let’s assume the tribe must make a game of extracting and distributing resources from their environment.
+
+Note: Notice that extracting resources is a sub-goal of the survival of individuals. We often find games with sub-goals leading to ultimate goals. The morally philosophical thing to interject might be to play with the ultimate goal of reducing suffering. However, the dynamics of game theory work either way, so we’ll proceed regardless.
+
+There are many ways to organize a game, or cooperate, in order to achieve that goal. However, in order to take advantage of network effects (i.e. the gain in value made by adding more individuals to cooperate), the individuals of the network must be playing the same game. Without a game, there is no cooperation, and therefore no possibility of the positive sum cooperation has to bring.
+
+When there is a game however, there must be enforcement of rules. Without rules, cheaters take advantage of the game, leading to zero sum outcomes. An example of zero sum-ness would be the individual who hoarded the carcass of a group hunt. While they would have got to keep the spoils, it was at the expense of the other individuals in the tribe, since their efforts would have been wasted.
+
+Over time, various games and rules are tried and tested until one becomes the common one. The individual(s) who was able to create and enforce the rules, over time would end up rising to the top of the hierarchy in the network, i.e. becoming rulers in a sense.
+
+In a tribe, the individual who actually got everyone organized, was put in charge — often referred to as the Chief. The other individuals within the network then, would give up a certain portion of their sovereignty to the Chief in exchange for the benefits the game had to offer. The Chief having been given influence or power stands to potentially benefit the most from the outcome of the game, or the positive sum created.
+
+Motivation & Coordination
+The Chief must be weary not to reap all or too much of the benefit, as the individuals will no longer want to participate in the game, or by the rules (since there is nothing in it for them, i.e. motivation). At that point, if he wanted to remain in charge of the game, it would mean expending his benefits on more enforcement costs (coordination), draining the positive sum all the way to zero, until the game is pointless or even yet, corrosive.
+
+Therefore, we can conclude that the less enforcement costs a game needs (i.e. the more individuals are willing to play), the more positive sum it tends toward.
+War & Technology
+At some point in history we decided to take this idea of cooperation beyond the network of the tribe. As cultural diversification grew and human territories expanded, we inevitably learned to play games with other tribes.
+
+Take two neighbouring, each having a portion of shared land. Let’s assume both tribes have the same objectives as the tribe described earlier. In this sense, one tribe stands in the way of another since they “own” resources that can be used.
+
+One way to add the other tribe to the game is to engage in a competition over the resources. This would manifest itself as tribal violence or war. The conquering tribe would stand to reap more than they have, while the destroyed tribe would stand to lose some of what they have. Overall, the game tends towards being zero-sum, or even yet negative sum, since the cost of war can be viewed as an enforcement cost (though war sometimes has positive sum externalities to it in real world cases. In cases where war becomes negative sum, it becomes outright destruction).
+
+However, another way presents itself to engage; through cooperation. It’s possible lets say, that each tribe specializes in the extraction of the resources familiar to them. Instead of engaging in war this time, the tribes will engage through trade. Both tribes now have access to more resources, in a more efficient manner than the waging of war and destruction (i.e. so more positive sum), since enforcement costs didn’t have to be incurred on the conquered tribe.
+
+Although we take it for granted now, trade is something that had to be invented, a technology of sorts. In order to create a new technology (invention, creation, work of art, etc.), the network has to obtain and transform new information about the environment to reconstruct reality. So in a sense, a network has a similar process of creativity as the individual psyche.
+
+Recall that the individual, encounters new or strange information (chaos), and through the process of creativity reshapes or constructs reality to appropriately cope with that information. Similarly, the tribe’s collective psyche encounters new or strange information in the form of another tribe (and it’s resources) and must decide how to cope. If they were to conquer the other tribe, they certainly could make a gain, but may not gain as much as they would through cooperation.
+
+Specifically, they would lose out on any useful information that tribe had, or had the potential to process. For example, that tribe may have had a unique resource extraction process that took a lot of creativity to invent. If they cooperated, they would have gained efficiencies through trade (i.e information-sharing), making creative use of the environment, or let’s say, better “sense” of it. Put another way, they could have been more effective at processing the environment’s information, which would manifests itself through “technology” (i.e. societal creativity). We might be able to say then:
+
+Cooperation leads to an increase in information-processing, or as it manifests itself through networks: better creation/technology. In the broadest sense then, every effective technology is an information technology since it is the outgrowth of more effective information-processing by a network. It also means that better information-processing within and between networks, leads to more positive sum outcomes, since it reduces enforcement costs.
+Law, Lords & States
+Organizing large organizations must’ve been simple then, right? Just do what it takes for a positive sum outcome. Yes, except, the larger networks became, the harder it became to decide what goals to aim towards (i.e. what to value), and how to come to a consensus on how to play it (i.e. rules).
+
+As we expanded beyond the tribe into something that resembles civilization, new forms of networks emerged. The trade network, the military network, the transportation network, the knowledge network, etc. And like our tribes, the rulers of those networks rose to power.
+
+As individuals found themselves a part of more networks, and as dependencies between those networks seemed to grow, it became paramount to form meta-networks to facilitate rules between them. This was the beginning of the state as we know it.
+
+It was often the individuals in power of the existing networks who seized the opportunity to form and rule meta-networks. Lords, kings, priests, monarchs. They coordinated the state through command and control, choosing what to value and what rules to play by.
+
+Along with the state came inventions such as written law, court systems, property, taxes and currencies. Such tools were created to help exercise coordination, either explicitly or through the removal of enforcement costs. Having a just legal system for example, helped ensure the rules were fairer amongst citizens, making them more likely to play and willingly give up their sovereignty (i.e. without needing to exercise enforcement).
+
+Tyrants & Mobs
+As the power of the state grew, so did it’s intrusion on the sovereignty of the individuals however. The rulers of the state had more to gain through this expanded power since the meta-network, like any hierarchy, rewards the ones at the top. Rulers being able to write the rules of the game then would continually expand their power, until the state became tyrannical.
+
+Like the tribe where the Chief hoarded the benefits of the network, the players or individuals of the network would begin to opt out. The state would then have to expend enforcement costs until any benefit of the game was nonexistent — resulting in the eventual collapse of the state (as seen in revolutions).
+
+The state as we know it then, was forced to evolve, you might say almost through natural selection, in a way that maximized the positive sum-ness of the game. By opening up rule making away from few individuals with inherited power, and towards the broader society, motivation was increased, keeping the game going. As a result, most modern states are not run by monarchs, but by some form of representation of the individuals in a society.
+
+Equality vs. Hierarchy, Left vs. Right
+The downsides of delegating control over the rules, is that what’s made up for in motivation (through equality), you lose in coordination (hierarchy). The people at the top of hierarchies are able to make quicker, more efficient and more often than not, better decisions than the masses. For example, you wouldn’t want a complete democracy in a military unit, you would hope there are ranks and a line of command to operate effectively.
+
+The most radical case of this is the desire for complete equality over hierarchy. When this happens you not only lose coordination to such a degree that cooperation becomes impossible, you also lose motivation as there is no longer anything to work towards. As a result, like the tyrant, you end up destroying the state completely and any potential for positive sum-ness.
+
+The previous century has seen the horrendous destruction the state can cause from both extremes. When a state becomes too coordinated and orderly (as seen in fascist regimes) you end up with a tyrannical force, no longer a place that allows for individuation (and hence creativity). When a regime becomes so set out on equality that it destroys any hierarchy of value (as seen in Marxist regimes), you quit the game completely — destroying civilization in the process. Centrism, then, may be a good option to avoid extreme ideologies on both ends.
+
+The Individual & The State
+How, then, do we organize ourselves to maximize positive sum-ness? We alluded earlier to the role that creation or invention (i.e. better information technology) within a network plays to maximize positive sum outcomes.
+
+We also compared the process by which networks produce these outcomes to the way the individual psyche of a human is able to confront chaos and transform it through creativity (i.e. better information-processing of it’s environment). The question then, can potentially be rephrased as;
+
+How do we increase information-processing (i.e. consciousness) within a network, as this would appear to lead to more positive sum outcomes?
+The Collective or The Individual?
+To ponder this, it might be of significance to ponder; is the state, or any network for that matter, itself, conscious? If it were, then maybe we can discard the consciousness of individuals for the purpose of the consciousness of the collective (network). While there are many angles to approach this, we’ll try arguing it on metaphysical grounds.
+
+Is the state or network a “real” entity? Or is it more of an abstraction? It appears, upon careful examination, that the idea of a state is an abstraction that lives inside the minds of two or more individuals. If the individuals of the state were to die or discard the abstraction, the state would cease to exist.
+
+Seeing as though consciousness arrives through the individual, mediated by the ego, and seeing how an abstraction is an idea within consciousness, it’s really the consciousness of the individual that brings life to a network. The network is not itself conscious, but rather, made up of the consciousness of individuals. It exists merely as a tool or extension of the individual will.
+
+This one distinction might be of the greatest importance within this paper. It means that in order to facilitate the greatest positive sum outcomes, we must concern ourselves with individual consciousnesses, being heedful not to treat them as the mere part of a collective. It is only an individual within a state, after all, that can experience suffering, not the state itself. It is also only the individual from which creativity (i.e. consciousness made manifest) arises. Any other way to treat individuals, would be, no different than the tribalism defined earlier.
+
+Expanding on our consciousness-centric view of evolution — you can say then, across varying levels of social organization, evolution tends to favour being individual-centric, since it is the individual that is the arbitrator of consciousness (as described by descriptions of the psyche).
+The Stories We Tell
+How then, does an individual act within a network in order to maximize consciousness?
+
+As is turns out, cultures over time have evolved ideas, ‘meme’-itically — you might say, about ways to act for the greatest benefit of a society. However, it is especially hard to describe the entire set of behaviours that, that way of being in the world would entail. And the exact set of behaviours must have changed between cultures and time.
+
+What cultures have done, however, are tell stories of great people. As admiration of such people grew, their images became entrenched in our collective consciousness. If such images were advantageous to networks, like a meme, they would survive and propagate themselves. If these images were advantageous between many networks across distance and time (i.e. different cultures) you might say they are deeply ingrained into our psyches.
+
+Swiss psychiatrist Carl Jung, was famous for coining the term collective unconscious to identify this part of our psyche, and describing these meme-like images as archetypes. An archetype such as the “wise old man” or the “trickster” represents a shared, universal social role to help describe a pattern of behaviours that commonly accrue in cultures, and hence within our psyches. They will often appear in various stories, over generations, across cultures.
+
+The Hero
+Of these archetypes however, none are as old, or as universal than the hero archetype. Civilizations are practically built around the hero myths they hold dear, whether it’s Gilgamesh, Achillies, or today’s Marvel heroes.
+
+Joseph Campbell, a scholar and admirer of Jung’s work, wrote a book titled A Hero With a Thousands Faces, where he examined hundreds of heroes across cultures and time, finding a unique set of patterns common amongst all hero myths. The pattern of every hero myth can be structured in a number of common stages. You may be familiar with some of these such as; getting the call to action, meeting a wise mentor, facing and then eventually defeating the obstacle that stands in your way. The hero’s journey can be summed up as:
+
+A hero ventures forth from the world of common day into a region of supernatural wonder: fabulous forces are there encountered and a decisive victory is won: the hero comes back from this mysterious adventure with the power to bestow boons on his fellow man. — Joseph Campbell, The Hero with A Thousand Faces
+Notice here, the reason that the hero myth may be the most commonly told archetype is because it speaks right to the core of who we are and what we do as individuals.
+
+Recall, our psyche continually faces the unknown (new information, chaos), which can be scary but as we continue along we eventually get in touch with a source of wisdom, or understanding (i.e. information-processing, consciousness).
+
+Having made sense or conquered the unknown, we retrieve the gold (new awareness) and bring it back to our society. Along the way, we confront our own mortality, and typical of the hero, experience an ego death — truly uncovering our unselfish purpose. This is the pattern common among any “spiritual” or inner growth. The hero’s concern then, is really about conquering themselves and their own psyche.
+
+Today’s heroes are the artists, entrepreneurs, writers, inventors, scientists, performers, or, anybody really, willing to risk their current state of being, to take on a purpose or challenge greater than themselves, charting unknown territory along the way, eventually retrieving something they can bring back to the world — a creation of some sort. Anybody who, in a sense, is a “creative”, or rather; a creator.
+
+Meta-Heroes
+As stories of heroes continued to be shared, some of these stories evolved to encompass the greatest aspects of multiple heroes, across cultures and time. These stories then had an impact on our collect unconscious in a way that transcended borders and nation lines.
+
+These heroes, or as we’ll call them, individuals, became the figures of religions, and collective narratives that brought people together who, otherwise, may have never have cooperated. Christ in Christianity, or the Buddha in the Buddhist tradition are examples of such meta-heroes, to name a few.
+
+While there is a lot we can learn from every one of these individuals and the stories surrounding them, what we’ll say about the lot was, how they were all, essentially, stoics — just as all heroes are. And like stoics they valued; wisdom, courage, justice, and good temperance.
+
+It was apparent humility, a commitment to Truth, facing challenges, taking responsibility and having an allegiance to justice were all apart of their being. Seeing the oneness and unity in all things — they cared to reduce suffering within themselves, their communities and the world at large. Having conquered their own psyches first, they transformed the world around them.
+
+To summarize, if networks evolved, through natural selection, to be more positive-sum, and as derived earlier, positive sum-ness seems to be maximized by more effective information-processing within the network (i.e. consciousness) — then the archetypes (which describes a set of social roles or behaviours) these later networks evolved, must have described the behaviours of individuals who maximized the network’s positive sum-ness (i.e. through more effective or “higher” consciousness).
+Money & Markets
+As it turns out, to design networks that value the actualization of the consciousness within individuals, it must reward the merits of “creators”.
+
+At the turn of the 20th century a new type of network evolved. Unlike the state network which specialized in coordination, the market network was designed specifically for motivation. The state and the market have had an especially important relationship to this day, for this reason.
+
+The markets rewarded anybody who traded creative value in the form of a product or service. Since it was inefficient to trade one form of creative value with another (e.g. trading a painting for a mined gem), a new medium of exchange (i.e. technology) was used to represent creative value — money.
+
+Individuals then can learn to become creators, eventually selling their creations to the marketplace. If their creation had merit, the network would allocate value, in the form of money, to the individual. With the ability to represent money as value, the market networks over time could diversify and form meta-networks; the stock network, the commodities network, the banking network, etc.
+
+The market networks then, due to their accessibility to anyone, and meritocratic nature became a force of nature — transcending state boundaries. Like the openness of democracies however, the follies of market networks is that they lack coordination. This prevented the market networks from being effective anywhere else except where commitment of money is important.
+
+For example, how could markets really control carbon emissions and other externalities. States, in most cases, intervened as a meta-network to decide on rules and add coordination to market networks (though this risked tyranny like before).
+
+Firms
+It’s great that markets empowered individuals as creators, but that didn’t have to entail creators work on their own, as there are positive sums to be made through effective cooperation. A new network, like the state, rose to prominence to help fix the coordination problem within markets. We refer to this network as the firm.
+
+Firms allowed for individuals in a marketplace to arrange, or contract themselves in a way that would maximize positive sum-ness. As a result, firms (companies) were able to produce products and services often far superior than any set of individuals could alone. Benefiting from the scope and outreach of the markets, the firms that have evolved today are enormous in scope, surpassing the boundaries of single nation-states in some cases. And of course, like the state, as the power of firms grew, as did the people who ruled the firms — becoming some of the wealthiest people on the planet.
+
+But also like the state, the firm is able to become tyrannical. As it’s power and wealth grows, so does the ability for the rulers of the firm to benefit completely. If the conditions of the firm no longer incentivize the individuals of the network, it becomes tyrannical, and no longer a place for the creativity of individuals.
+
+Within the firm network then, individuals would opt out of the game, the product or service (which represents the firm’s creativity) would suffer, making the firm pointless and, eventually dissolving the firm. From a first principles perspective, this dynamic is really at the heart of big incumbents often failing to out innovate smaller, and younger companies.
+
+Web Networks, The Information Age
+One way to combat the potential tyranny of firms, just like in a state, is to power the individual. In fact, the best organizational practices are set up around the individual, providing a network where they are both motivated and reap the benefits of coordination. Everything from more autonomy to stock options and benefits are tools to help increase motivation.
+
+However, it was the rise of yet another network at the turn of the millennium, that really shifted the tide on the empowerment of the individual. Through the communication of individual computing machines (or nodes), and a common protocol (HTTP, i.e. the rules), the World Wide Web or the Internet, became the most widely spread, most open, and effective information processing network in history.
+
+The greatest feature of the Internet, was the abolishment of the monopoly on information, previously held by established, and mostly closed networks. Just by distributing the greatest information-sharing tool ever invented, individuals could immediately benefit from an increase in effective information-processing.
+
+It also allowed the search cost of coordinating individual creators to drop to nearly zero or enough that it made the idea of giving up sovereignty to a network (firm) a less attractive option. Networks of individuals then, could use the Internet to streamline their coordination rather than the firm (which specialized in searching and hiring individuals), by finding other individuals online to contract with. The result has been the shrinking of the typical firm size from thousands to hundreds or dozens in many cases, without sacrificing on the product and services typical of coordinated firms.
+
+Online Tribes, Web Networks
+HTTP as a protocol was designed to be a very simple rulebook for the internet network. If two nodes agreed to share information, one would push the information, while the other receives. This design was of course crucial to making the internet the open place it is today, but a part of it’s folly is that it has very limited use cases. The most effective and well coordinated networks, as we’ve discussed earlier, need a hierarchy and a more rewarding set of rules.
+
+Despite this, most the online applications we use today, such as the Facebook’s and AirBnB’s of the world, seem to have made the best of this anyway. As internet users, we consistently participate in these web networks that take advantage of the openness and reach of the internet, while simultaneously being well coordinated networks. Web networks arose as a hybrid of the firm (the network that coordinated contributors), the internet (the network that reached consumers), and the market (which provided incentives, or motivation to the web network through value exchange).
+
+As a result, we have well coordinated web networks that have amassed enormous wealth, while of course, providing value to users. However, like the regular offline firm, the web network firm also risks tyranny. Web networks, almost like monarchies, are run by a group of elites, who despite their greatest intentions, may begin to make rules that eventually ruin the positive sum-ness of the network.
+
+Efforts like customer development and public relations try to open up the rule making to the masses of the network. Despite these efforts however, we continue to see many of these web networks abuse their rule making abilities. YouTube censoring content creators, or Twitter banning people of a different political bent are examples of potential abuses. Of course, these networks are allowed to do what they want as private entities, but, just like the tyrannical state, individuals will eventually opt out of the network, and destroying the network. This situation isn’t optimal for anyone involved, as the built up network effects (i.e. positive sum-ness) are thrown away.
+
+The Blockchain, Network Economies
+In contrast to how the state evolved from being ruled over by few individuals, to a state ruled as a representation of the individuals (i.e. republics) — it seems imperative that a corollary evolution is bound to happen to web networks like Youtube, or Uber. Some alternatives have been tried through the open source movement, whereby individual contributors rule a network, without a centralized firm. However, none of these projects have been as well coordinated, and properly financed (through market network mechanisms), as a centralized web network run through a firm.
+
+What appears to be needed is a new network that provides a combination of the openness of the internet network, the coordination of the firm network, and the incentive or motivation mechanisms of a market network.
+
+And that brings us to today’s state of affairs. In October of 2008, an anonymous individual or group by the alias Satoshi Nakamoto, published a paper for the first of such a network — a blockchain network. What was outlined was a completely decentralized currency called Bitcoin.
+
+Without getting too technical, essentially Bitcoin is a public or shared ledger. In accounting, ledgers are used to identify transactions between parties (such as payments). Traditionally, these ledgers are stored in one centralized location, which act like the middleman between transacting parties. This is the case with most payments that occur today. They go through a centralized intermediary (such as a bank or PayPal) and parties look to the intermediary to enforce the rules of the transactions. This is partially what made the open source movement hard to really coordinate without relying on centralized firms.
+
+However, by having a shared ledger instead, every computer or “node” on the Bitcoin blockchain has a copy of the ledger, along with every transaction. When transactions occur they are verified by the nodes or peers in the network, not by a centralized intermediary source. Whenever money or “Bitcoin” is sent from one node to another, it must be verified by the network of peers. In other words, blockchains run on a built-in group consensus (or consensus protocol), meaning there aren’t entrenched rulers of the network, just purely peer to peer rule making.
+
+In order to enforce the rules of the network, other nodes (peers) must verify the transactions on the ledger. As with any network, the rulers (enforcers) expend an enforcement cost. So, in a peer-to-peer network like a blockchain, the enforcement of rules must be compensated by the network. Depending on the rules, or let’s say, consensus protocol, the rulers of the network are paid in some proportion to the value they contribute.
+
+So at the core of this decentralized currency, Bitcoin, is the power of the blockchain network. Notice here, a blockchain is as open as the internet since it is simply run between distributed nodes all over the world. It is also possible to have an enforcement of rules or coordination, without a need for centralization, through a completely peer-to-peer consensus protocol. Finally, like in market networks, the blockchain network is able to allocate the appropriate amount of value to individuals within the network based purely on the merit that they provide the network.
+
+Looking Ahead
+A digital currency is a powerful use case of a type of network that can be powered by blockchain technology, one with implications on the global economy/order that we cannot begin to foresee. More exciting however is the fact that a digital currency is only one of an unimaginable amount of use cases of a blockchain network.
+
+Any network which can benefit from being simultaneously open (for more equality), meritocratic (for hierarchy/coordination) and ruled over in a peer-to-peer manner, can use a blockchain. Everything from our governments, to corporations, to university networks and everything in between may one day be a blockchain network.
+
+Web networks such as Uber, can now, like a state, evolve to something more open, and inclusive to the individuals of the network — hopefully resulting in a positive sum-ness unmatched by any network structure before. The Ubers of the future will be built, financed and operated by distributed individuals of the network. The Uber driver, the customer and the developers in a sense will be rulers of the network, and will be rewarded for the value they contribute.
+
+However, we must be careful not to idolize decentralization as a complete and utter force of good. Like democracy, and equality, if not matched with a decent structure or hierarchy, it eventually erodes coordination, and then motivation, until the eventual collapse of the network. So we must be wise, when designing our rules, to strike a strong balance between decentralization and meritocracy, always testing and measuring our assumptions.
+
+In a universe where evolution tends to favour social organizations that empower the individual, blockchain networks, which are completely peer-to-peer networks (i.e. individual-to-individual) appear to be the inevitable evolutionary product of social organization. If for this reason, blockchains empower the individual consciousness through the open and meritocratic treatment of creators, we should expect that they will yield a greater positive sum-ness than any network structure to come before it.
+Prosperity
+With the openness and information-sharing that the internet allowed, a new wave of prosperity has arisen around the world. While the rulers of web networks are some of the wealthiest folks to ever exist, the internet has also provided opportunity and mobility to people and areas where the current networks would not have permitted. So despite staggering income inequality, the world poverty level has actually nearly cut in half in the 20 years, before Bitcoin was unveiled in the world. To say that there has never been a more prosperous time in human history is not an overstatement, regardless of the current political attitudes on the global order.
+
+The effect that the internet has had on this prosperity, although difficult to quantify, is undeniably correlated. And this is the internet network that, despite it’s unparalleled openness, has until now really lacked the coordination and motivation mechanisms on it’s own to truly be applied to it’s potential for organizations. Now with the advent of the blockchain, we have the openness of the internet combined with the merits of markets and coordination of firms and states.
+
+In places that lack network infrastructures such as a stable state or market economy, the blockchain provides the ability to immediately fast track the evolution of these communities, hopefully lifting more people out of poverty than we’ve seen before.
+
+There will definitely be challenges to replacing older, less positive sum networks with the eminent blockchain networks. There will definitely be negative consequences, despite our best intentions that this change will cause. There will also definitely be many charlatans, promising false utopian visions, espousing decentralization as the end all, be all, when in fact, there might be merits of centralization in many cases.
+
+To avoid this, we must be able to talk open and honestly. We should take our time implementing radical change — hypothesize, test and empirically measure the impact these changes have on our networks, and hence our individual lives. We should value the pursuit of truth over our individual desires or what any one opportunity can provide us personally. And finally, “our” role in all this really, whatever level of organization you believe yourself to be, ultimately seems to be a commitment to increasing effective information processing (i.e. consciousness, awareness), in order to facilitate the greatest good, for any organization.
+
+Wrapping It Up
+If you’ve made it this far in the investigation, congratulations. You may have realized that what was attempted here, was essentially, a unifying theory of sorts. There were many gaps of knowledge (and hence, certainly mistakes made) in the formulation of this. Figuring out what to leave out was certainly harder than deciding what to include, for the sake of effectiveness.
+
+For this reason, I do not believe that there will ever be a grand unifying theory of everything. Only “lenses” or system of thought, which can only ever explain a partition of reality, as reality itself, is infinite.
+
+“Truth is one — sages call it by various names.” — Rigveda
+Nothing written here is meant to be taken as truth or a solid explanation for reality then. What has been outlined is a system, or lens, which may be found useful when applied for the purpose of analysis in certain circumstances. In this case it was used to analyze how we might organize ourselves in the dawning information age. And like any system, it will become outdated and eventually corrosive if not continually revivified and updated by the consciousness of individuals.
+
+I plan to release a revised edition of this in the future, as a part of a multiple part series, so feel free to share your thoughts about it below and start a dialogue. Also, make sure to read the bonus bit below. Thank you!
+
+Bonus: Consciousness (Thought) Experiments
+The following are a series of thought experiments and provoking questions. They are not meant to be taken too literally or seriously. Their ambiguity and/or absurdity is a part of their design.
+
+1. Einstein’s Mass-Energy Equivalence & Information Theory
+Amongst Einstein’s great ideas, the one that has probably penetrated our mainstream culture the most was his equation of E=mc2. That equation, as Einstein theorized, explains that energy and mass are the same thing and can be converted into one another. A bit of mass gives you a lot of energy, basically.
+
+Let’s for the sake of the thought experiment, propose that if energy and mass can be converted into one another, there must be something more elementary, more primordial than both. What if that thing was information? Information could be able to inform the way in which mass-energy manifests then.
+
+If the world as we know it then is really made of information, then what is information-processing, or, as we can refer to it as — consciousness? Well, we can say absolute consciousness can’t be information since it processes it, which means it’s not a “thing”, or No-thing. For this reason, we can also say, that it is not bound by space nor time, or that it is Infinite, and Eternal. Since it is not bound up by any bit of information, but makes sense of all information, maybe we can say that pure consciousness is pure understanding, or All-Knowing.
+
+2. Evolution: Do We Have A Backwards View of Time?
+Is it possible that we, as finite individuals, conceive time like an illusion. After all, before Einstein’s theories of relativity, we could not have even fathomed time itself to be malleable. Instead of using our clock time, what if instead we used evolution’s arrow of time?
+
+Earlier we used the selfish gene hypothesis to propose that “your body serves the purpose of your DNA, giving it legs and arms to interact with the world”. What if evolution’s arrow of time ran on purpose? In that way you can say everything from the big bang was designed for the purpose of your DNA. In that sense, from the perspective of evolution, time may appear to be backwards.
+
+If pure, absolute consciousness is evolution’s ultimate purpose, can we say then that everything from the big bang was created for the purpose of consciousness. That consciousness, somehow, is the Creator of the universe? That consciousness appears to be the great attractor at the end of time (as we view it), but have been the purpose all along — the beginning and end, the alpha and the omega?
+
+3. Is it possible to experience “more” Consciousness?
+If we could, we would have to do the investigation within our subjective experience.
+
+Take a moment. Sit down. Take a deep breath and calm your mind. Notice every sensations, from your body touching whatever surface it’s on, to the lights and sounds and smells of the environment around you. Notice also, every thought or sense of “self” you have. Note that everything you notice cannot be direct consciousness because it is a “thing” or information you are receiving.
+
+Observe what’s behind every sensation. There is an awareness. Try to become “aware” of awareness itself. This is a hard thing to do, but you can get better at it. Is it possible that within your subjective experience, this can move you towards consciousness itself? What if you were to try this for 1000s of hours?
+
+Resources
+Stay tuned for an updated list on the resources that made this paper possible.
