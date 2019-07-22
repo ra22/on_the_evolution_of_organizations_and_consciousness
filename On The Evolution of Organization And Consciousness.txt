@@ -1,3 +1,15 @@
+It's Back
+It's been almost 2 years since the original publication of what I, at the time, considered to be my amateur magnum opus - a paper titled "The Evolution of Organizations and Consciousness." Admittedly, for my own benefit I was trying to piece together the puzzle my mind was brewing in an attempt to tie together the unfolding trends in technology, finance, and politics. I decided if I was really wanted to tackle this sublimely then perhaps I start from first principles - the origins of the universe (as told by our scientific theories) to our modern human civilization. This was in the hopes of being able to create a frame sufficient enough to predict how these trends will continue to unfold into the near future and the implications of such an unfolding.
+
+I published the result of this exercise to Medium in the September of 2017, gaining an interest from rather far-out thinkers and amateur academics. The premise, to summarize, was that there seems to be a structure, or an evolution we'll call it, that is unfolding across time, and across all strata of the known material universe -- and that evolution tended towards the maximization of information-processing (as will be defined below). I tried taking ideas from modern thinkers like Dawkins (whose selfish gene theory played a fundamental role in this hypothesis), to thinkers such as Claude Shannon. Marshall Mcluhan, even controversial figures such as Freud and Jung, to draw implications on what we're seeing in our modern, hyper-technoligzed and hyper-mediatized world. 
+
+To somewhat of my surprise, the implications were essentially reverberations of time-tested philosophies spanning centuries. For example, if you're to read the final bit at the end of the paper ("Bonus - Thought Experiments") you could draw a parallel between the definition of information-processing/consensus to something equating a Creator principle, with the idea of the individual as a central mediator of such information-processing. Of course, like any human attempt to explain what appears to be beyond the realm of description, language or even knowledge itself, there were and still are flaws in this work. Ruminating over the implications of all this, I had decided I'd temporarily take down the paper from the public a year ago. Fortunately, I'd decided to version control the original paper on GitHub and that is what I now present to you.
+
+Below is that original work that I published, with some additions I've added. As I continue to explore new territories and avenues of knowledge in my lifetime, I will continue to update this paper. You can view all the changes by referring to the Git-controlled copy in this link: 
+
+Enjoy!
+
+
 From Past To Present
 For better or worse, something peculiar has happened over the past few thousands of years. Bands of human tribes scattered across pre-industrial, pre-agricultural lands have gone on to organize themselves in large scale efforts, forming everything from cities and nation states, to global market economies, expedited by the internet and sprawling multinational corporations.
 
@@ -276,6 +288,7 @@ While there is a lot we can learn from every one of these individuals and the st
 It was apparent humility, a commitment to Truth, facing challenges, taking responsibility and having an allegiance to justice were all apart of their being. Seeing the oneness and unity in all things — they cared to reduce suffering within themselves, their communities and the world at large. Having conquered their own psyches first, they transformed the world around them.
 
 To summarize, if networks evolved, through natural selection, to be more positive-sum, and as derived earlier, positive sum-ness seems to be maximized by more effective information-processing within the network (i.e. consciousness) — then the archetypes (which describes a set of social roles or behaviours) these later networks evolved, must have described the behaviours of individuals who maximized the network’s positive sum-ness (i.e. through more effective or “higher” consciousness).
+
 Money & Markets
 As it turns out, to design networks that value the actualization of the consciousness within individuals, it must reward the merits of “creators”.
 
